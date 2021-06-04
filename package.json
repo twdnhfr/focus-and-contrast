@@ -1,0 +1,21 @@
+{
+    "name": "focus-and-contrast",
+    "displayName": "Focus and Contrast",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Focus and Contrast (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Focus and Contrast (Dark)-color-theme.json"
+            }
+        ]
+    }
+}
